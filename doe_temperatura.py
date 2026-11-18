@@ -1,9 +1,6 @@
 """
 Tarea 3 - Ejercicio 1: Ajuste de la temperatura del Recocido Simulado (2-opt, TSP) con DOE
 Opcion A: diseno factorial completo 3 (temperatura) x 3 (tamano), 10 replicas por punto.
-
-Uso:  python doe_temperatura.py
-Genera: figuras en ./figuras y resultados.json en ./
 """
 import math
 import random
